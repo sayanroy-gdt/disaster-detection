@@ -1,0 +1,2 @@
+# disaster-detection
+India faces a variety of natural disasters every year. Natural disasters caused in the different regions can be detected by the satellite of high resolution to capture the image and process it later to find out the destruction caused in the particular area. The Disaster Detection uses CNN Algorithm to classify a given image into one of the four categories - wildfire, flood, cyclone, and earthquake. The dataset that has been used contains a set of 4428 images collected by Gautam Sharma from Google Images. 
